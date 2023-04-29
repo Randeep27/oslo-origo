@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+.App h1 {
+  font-family: "Urban Grotesk", "Helvetica Neue", sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+.App section {
+  padding: 20px 0 40px;
+}
+
+.App button {
+  vertical-align: middle;
+  text-decoration: none;
+  cursor: pointer;
+  user-select: none;
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 95, 201);
+  border-color: rgb(0, 95, 201);
+  display: inline-block;
+  font-size: 19px;
+  line-height: 1.45;
+  padding: 8px 32px;
+  margin: 5px 10px;
+  font-family: "Urban Grotesk", "Helvetica Neue", sans-serif;
+  text-align: center;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 9999px;
+  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s !important;
+}
+
+.App button:hover {
+  color: rgb(255, 255, 255);
+  filter: brightness(0.85);
+}
