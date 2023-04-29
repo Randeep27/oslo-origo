@@ -1,6 +1,6 @@
 Hi
 
-This is the project for oslobysykkel created in react and is hosted on Firebase.
+This is the project for Oslo Bysykkel created in react and hosted on Firebase.
 
 ## Link to the project is below:
 
